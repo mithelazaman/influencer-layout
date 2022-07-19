@@ -41,3 +41,29 @@ nav ul{
     padding: 20px 20px;
     
 }
+.container{
+    padding: 40px;
+    width:100%;
+    margin-left: 60px;
+    
+}
+.collections{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    
+
+
+}
+.section-title{
+    
+    text-align: center;
+    padding:60px;
+}
+.fa-star{
+    color: gold;
+}
+.fa-star-half-stroke{
+    color: gold;
+}
+
+
