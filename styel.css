@@ -1,0 +1,12 @@
+/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Bebas+Neue&family=Oswald:wght@300&family=Poppins:ital,wght@0,400;1,500&display=swap');
+/* body/ */
+body{
+    font-family: 'Poppins', sans-serif;
+    
+    
+}
+/* styels header........ */
+nav ul{
+    display: flex;
+}
